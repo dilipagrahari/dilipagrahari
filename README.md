@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilipagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="dilipagrahari" /> </p>
 
-- 🌱 I’m currently learning *Data science*
+- 🌱 I’m currently learning *Cloud Services*
 
 - 💬 Ask me about *C#, SQL, Nodejs, Angular, JavaScript and Automation Services*
 
