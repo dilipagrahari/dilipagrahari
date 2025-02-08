@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Cloud Services*
 
-- 💬 Ask me about *C#, SQL, Nodejs, Angular, JavaScript and Automation Services*
+- 💬 Ask me about *C#, .Net, AWS(S3, Lambda, EC2, RDS), SQL, MySql, MongoDB, Nodejs, Angular, JavaScript and Automation Services*
 
 - 📫 How to reach me *agraharidilip7@gmail.com*
 
